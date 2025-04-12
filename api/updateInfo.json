@@ -202,7 +202,10 @@
 		{"id":"140105","desc":"BC 14.1.1 contents","ver":"070900","type":"core"},
 		{"id":"140200","desc":"BC 14.2 contents","ver":"071000","type":"core"},
 		{"id":"140201","desc":"BC 14.2 enemy icons","ver":"071000","type":"android"},
-		{"id":"140202","desc":"BC 14.2 gacha/mission data/item/unit icons","ver":"071000","type":"bot"}
+		{"id":"140202","desc":"BC 14.2 gacha/mission data/item/unit icons","ver":"071000","type":"bot"},
+		{"id":"140300","desc":"BC 14.3 contents","ver":"071100","type":"core"},
+		{"id":"140301","desc":"BC 14.3 enemy icons","ver":"071100","type":"android"},
+		{"id":"140302","desc":"BC 14.3 gacha/mission data/item/unit icons","ver":"071100","type":"bot"}
 	],
 
 	"pc_libs": [

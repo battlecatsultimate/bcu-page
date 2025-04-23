@@ -205,7 +205,9 @@
 		{"id":"140202","desc":"BC 14.2 gacha/mission data/item/unit icons","ver":"071000","type":"bot"},
 		{"id":"140300","desc":"BC 14.3 contents","ver":"071100","type":"core"},
 		{"id":"140301","desc":"BC 14.3 enemy icons","ver":"071100","type":"android"},
-		{"id":"140302","desc":"BC 14.3 gacha/mission data/item/unit icons","ver":"071100","type":"bot"}
+		{"id":"140302","desc":"BC 14.3 gacha/mission data/item/unit icons","ver":"071100","type":"bot"},
+		{"id":"140303","desc":"BC 14.3 BCKR/TW unit/fix enemy edi icons","ver":"071100","type":"core"},
+		{"id":"140304","desc":"BC 14.3 BCKR/TW unit icon","ver":"071100","type":"bot"}
 	],
 
 	"pc_libs": [

@@ -207,7 +207,10 @@
 		{"id":"140301","desc":"BC 14.3 enemy icons","ver":"071100","type":"android"},
 		{"id":"140302","desc":"BC 14.3 gacha/mission data/item/unit icons","ver":"071100","type":"bot"},
 		{"id":"140303","desc":"BC 14.3 BCKR/TW unit/fix enemy edi icons","ver":"071100","type":"core"},
-		{"id":"140304","desc":"BC 14.3 BCKR/TW unit icon","ver":"071100","type":"bot"}
+		{"id":"140304","desc":"BC 14.3 BCKR/TW unit icon","ver":"071100","type":"bot"},
+		{"id":"140400","desc":"BC 14.4 contents","ver":"071200","type":"core"},
+		{"id":"140401","desc":"BC 14.4 enemy icons/medal","ver":"071200","type":"android"},
+		{"id":"140402","desc":"BC 14.4 gacha/mission data/unit icons","ver":"071200","type":"bot"}
 	],
 
 	"pc_libs": [
@@ -469,5 +472,5 @@
 
 	"text_update":0,
 
-	"music": 174
+	"music": 179
 }

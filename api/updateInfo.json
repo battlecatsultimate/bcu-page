@@ -210,7 +210,9 @@
 		{"id":"140304","desc":"BC 14.3 BCKR/TW unit icon","ver":"071100","type":"bot"},
 		{"id":"140400","desc":"BC 14.4 contents","ver":"071200","type":"core"},
 		{"id":"140401","desc":"BC 14.4 enemy icons/medal","ver":"071200","type":"android"},
-		{"id":"140402","desc":"BC 14.4 gacha/mission data/unit icons","ver":"071200","type":"bot"}
+		{"id":"140402","desc":"BC 14.4 gacha/mission data/unit icons","ver":"071200","type":"bot"},
+		{"id":"140403","desc":"BC 14.4 BCKR/TW anniversary unit","ver":"071200","type":"core"},
+		{"id":"140404","desc":"BC 14.4 BCKR/TW gacha/mission data/unit icon","ver":"071200","type":"bot"}
 	],
 
 	"pc_libs": [

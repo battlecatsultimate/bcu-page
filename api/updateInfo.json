@@ -212,7 +212,8 @@
 		{"id":"140401","desc":"BC 14.4 enemy icons/medal","ver":"071200","type":"android"},
 		{"id":"140402","desc":"BC 14.4 gacha/mission data/unit icons","ver":"071200","type":"bot"},
 		{"id":"140403","desc":"BC 14.4 BCKR/TW anniversary unit","ver":"071200","type":"core"},
-		{"id":"140404","desc":"BC 14.4 BCKR/TW gacha/mission data/unit icon","ver":"071200","type":"bot"}
+		{"id":"140404","desc":"BC 14.4 BCKR/TW gacha/mission data/unit icon","ver":"071200","type":"bot"},
+		{"id":"140405","desc":"unit 353 fix", "ver":"071200","type":"core"}
 	],
 
 	"pc_libs": [

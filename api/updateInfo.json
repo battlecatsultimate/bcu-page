@@ -216,7 +216,8 @@
 		{"id":"140405","desc":"unit 353 fix", "ver":"071200","type":"core"},
 		{"id":"140500","desc":"BC 14.5 contents","ver":"071200","type":"core"},
 		{"id":"140501","desc":"BC 14.5 enemy icons","ver":"071200","type":"android"},
-		{"id":"140502","desc":"BC 14.5 gacha/mission data/item/unit icons","ver":"071200","type":"bot"}
+		{"id":"140502","desc":"BC 14.5 gacha/mission data/item/unit icons","ver":"071200","type":"bot"},
+		{"id":"140503","desc":"Fix BC 14.5 spirit icons","ver":"071200","type":"core"}
 	],
 
 	"pc_libs": [

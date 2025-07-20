@@ -278,6 +278,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50401,"desc":"This version fixes JP and ES lang crashes.","isRelease":true},
 		{"ver":50400,"desc":"This version adds 13.7 thru 14.5 contents, new abilities/mechanics included by community contributors, and fixes bugs.","isRelease":true},
 		{"ver":50302,"desc":"This version adds 13.6 contents, inverted waves, and fixes bugs.","isRelease":true},
 		{"ver":50301,"desc":"This version fixes critical bugs, and corrected cannon/foundation/decoration calculations.","isRelease":true},
@@ -380,7 +381,7 @@
 		{"ver":50005,"desc":"This version fixes enemy base time stop animation, and allow user to customize minimum respawn.", "isRelease":true},
 		{"ver":50004,"desc":"This version fixes stage head table, improves omni text, and surge immune effct anim.", "isRelease":true},
 		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true},
-		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true},
+		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true}
 	],
 
 	"apk_update":[

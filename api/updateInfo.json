@@ -218,6 +218,7 @@
 		{"id":"140501","desc":"BC 14.5 enemy icons","ver":"071200","type":"android"},
 		{"id":"140502","desc":"BC 14.5 gacha/mission data/item/unit icons","ver":"071200","type":"bot"},
 		{"id":"140503","desc":"Fix BC 14.5 spirit icons","ver":"071200","type":"core"},
+		{"id":"140504","desc":"Small orb icons","ver":"071201","type":"core"},
 		{"id":"140600","desc":"BC 14.6 contents","ver":"071200","type":"core"},
 		{"id":"140601","desc":"BC 14.6 medal/enemy icons","ver":"071200","type":"android"},
 		{"id":"140602","desc":"BC 14.6 gacha/mission data/item/unit icons","ver":"071200","type":"bot"}
@@ -280,6 +281,8 @@
 	],
 
 	"pc_update":[
+		{"ver":50401,"desc":"This version fixes JP and ES lang crashes.","isRelease":true},
+		{"ver":50400,"desc":"This version adds 13.7 thru 14.5 contents, new abilities/mechanics included by community contributors, and fixes bugs.","isRelease":true},
 		{"ver":50302,"desc":"This version adds 13.6 contents, inverted waves, and fixes bugs.","isRelease":true},
 		{"ver":50301,"desc":"This version fixes critical bugs, and corrected cannon/foundation/decoration calculations.","isRelease":true},
 		{"ver":50300,"desc":"This version fixes copy and pasting stages.","isRelease":true},

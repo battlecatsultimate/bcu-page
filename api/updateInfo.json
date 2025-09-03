@@ -221,7 +221,8 @@
 		{"id":"140504","desc":"Small orb icons","ver":"071201","type":"core"},
 		{"id":"140600","desc":"BC 14.6 contents","ver":"071200","type":"core"},
 		{"id":"140601","desc":"BC 14.6 medal/enemy icons","ver":"071200","type":"android"},
-		{"id":"140602","desc":"BC 14.6 gacha/mission data/item/unit icons","ver":"071200","type":"bot"}
+		{"id":"140602","desc":"BC 14.6 gacha/mission data/item/unit icons","ver":"071200","type":"bot"},
+		{"id":"140603","desc":"Add missing bg effect files","ver":"071200","type":"core"}
 	],
 
 	"pc_libs": [

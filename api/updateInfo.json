@@ -225,7 +225,8 @@
 		{"id":"140603","desc":"Add missing bg effect files","ver":"071200","type":"core"},
 		{"id":"140700","desc":"BC 14.7 contents","ver":"071300","type":"core"},
 		{"id":"140701","desc":"BC 14.7 medal/enemy icons","ver":"071300","type":"android"},
-		{"id":"140702","desc":"BC 14.7 gacha/mission data/unit icons","ver":"071300","type":"bot"}
+		{"id":"140702","desc":"BC 14.7 gacha/mission data/unit icons","ver":"071300","type":"bot"},
+		{"id":"140703","desc":"Force add dummy enemy 747","ver":"071300","type":"core"}
 	],
 
 	"pc_libs": [

@@ -238,7 +238,8 @@
 		{"id":"150105","desc":"BC 15.1.1 gacha/mission data/unit icons","ver":"071500","type":"bot"},
 		{"id":"150200","desc":"BC 15.2 contents","ver":"071500","type":"core"},
 		{"id":"150201","desc":"BC 15.2 medal/enemy icons","ver":"071500","type":"android"},
-		{"id":"150202","desc":"BC 15.2 gacha/mission data/unit icons","ver":"071500","type":"bot"}
+		{"id":"150202","desc":"BC 15.2 gacha/mission data/unit icons","ver":"071500","type":"bot"},
+		{"id":"150203","desc":"BC 15.2 small orb icons","ver":"071500","type":"core"}
 	],
 
 	"pc_libs": [

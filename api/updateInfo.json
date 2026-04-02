@@ -288,9 +288,9 @@
  		"jorbis-0.0.17.4.jar",
  		"json-20240303.jar",
  		"jsr305-3.0.2.jar",
- 		"kotlin-stdlib-1.9.23.jar",
- 		"kotlin-stdlib-jdk7-1.9.23.jar",
- 		"kotlin-stdlib-jdk8-1.9.23.jar",
+ 		"kotlin-stdlib-2.2.0.jar",
+ 		"kotlin-stdlib-jdk7-2.2.0.jar",
+ 		"kotlin-stdlib-jdk8-2.2.0.jar",
  		"listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
  		"opencensus-api-0.31.1.jar",
  		"opencensus-contrib-http-util-0.31.1.jar",
@@ -299,6 +299,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50401,"desc":"This version adds BC content up to 15.3, supervillain & combo mechanics, and fixes bugs.","isRelease":true},
 		{"ver":50401,"desc":"This version fixes JP and ES lang crashes.","isRelease":true},
 		{"ver":50400,"desc":"This version adds 13.7 thru 14.5 contents, new abilities/mechanics included by community contributors, and fixes bugs.","isRelease":true},
 		{"ver":50302,"desc":"This version adds 13.6 contents, inverted waves, and fixes bugs.","isRelease":true},

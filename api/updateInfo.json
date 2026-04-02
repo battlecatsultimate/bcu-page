@@ -302,6 +302,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50500,"desc":"This version adds contents up to 15.2, supervillains, and fixes bugs.","isRelease":true},
 		{"ver":50401,"desc":"This version fixes JP and ES lang crashes.","isRelease":true},
 		{"ver":50400,"desc":"This version adds 13.7 thru 14.5 contents, new abilities/mechanics included by community contributors, and fixes bugs.","isRelease":true},
 		{"ver":50302,"desc":"This version adds 13.6 contents, inverted waves, and fixes bugs.","isRelease":true},

@@ -304,6 +304,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50502,"desc":"This version adds custom unit 4th forms and custom orb slots, and fixes bugs.","isRelease":true},
 		{"ver":50501,"desc":"This version adds supervillain slayer, and fixes bugs.","isRelease":true},
 		{"ver":50500,"desc":"This version adds contents up to 15.2, supervillains, and fixes bugs.","isRelease":true},
 		{"ver":50401,"desc":"This version fixes JP and ES lang crashes.","isRelease":true},

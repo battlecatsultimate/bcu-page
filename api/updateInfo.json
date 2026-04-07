@@ -309,6 +309,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50600,"desc":"This version adds 15.3 contents, lethargy, stage orb restriction, and fixes bugs.","isRelease":true},
 		{"ver":50502,"desc":"This version adds custom unit 4th forms and custom orb slots, and fixes bugs.","isRelease":true},
 		{"ver":50501,"desc":"This version adds supervillain slayer, and fixes bugs.","isRelease":true},
 		{"ver":50500,"desc":"This version adds contents up to 15.2, supervillains, and fixes bugs.","isRelease":true},

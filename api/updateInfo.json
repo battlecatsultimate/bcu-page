@@ -245,7 +245,8 @@
 		{"id":"150206","desc":"Lethargy ability anim","ver":"071600","type":"core"},
 		{"id":"150300","desc":"BC 15.3 contents","ver":"071600","type":"core"},
 		{"id":"150301","desc":"BC 15.3 medal/enemy icons","ver":"071600","type":"android"},
-		{"id":"150302","desc":"BC 15.3 gacha/mission data/item/unit icons","ver":"071600","type":"bot"}
+		{"id":"150302","desc":"BC 15.3 gacha/mission data/item/unit icons","ver":"071600","type":"bot"},
+		{"id":"150303","desc":"BC 15.3 delay immunity icon","ver":"071600","type":"core"}
 	],
 
 	"pc_libs": [

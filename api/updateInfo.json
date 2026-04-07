@@ -241,7 +241,8 @@
 		{"id":"150202","desc":"BC 15.2 gacha/mission data/unit icons","ver":"071500","type":"bot"},
 		{"id":"150203","desc":"BC 15.2 small orb icons","ver":"071500","type":"core"},
 		{"id":"150204","desc":"Custom supervillain slayer icon","ver":"071500","type":"core"},
-		{"id":"150205","desc":"Ultra form display and deploy icons","ver":"071501","type":"core"}
+		{"id":"150205","desc":"Ultra form display and deploy icons","ver":"071501","type":"core"},
+		{"id":"150206","desc":"Lethargy ability anim","ver":"071600","type":"core"}
 	],
 
 	"pc_libs": [

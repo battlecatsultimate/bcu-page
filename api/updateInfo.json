@@ -310,6 +310,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50606,"desc":"This version adds basic dojo scoring, and fixes bugs.","isRelease":true},
 		{"ver":50605,"desc":"This version adds summon/spirit view, and fixes crash after saving and reopening.","isRelease":true},
 		{"ver":50604,"desc":"This version adds money drop flag for stages, and fixes bugs.","isRelease":true},
 		{"ver":50603,"desc":"This version re-adds mult editing for cat summons, and fixes bugs.","isRelease":true},

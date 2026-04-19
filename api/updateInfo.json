@@ -310,7 +310,8 @@
 	],
 
 	"pc_update":[
-		{"ver":50607,"desc":"This version adds talent dojo scoring","isRelease":true},
+		{"ver":50608,"desc":"This version fixes animation bugs and allows adding/removing dojo score bonuses.","isRelease":true},
+		{"ver":50607,"desc":"This version adds talent dojo scoring, and fixes bugs.","isRelease":true},
 		{"ver":50606,"desc":"This version adds basic dojo scoring, and fixes bugs.","isRelease":true},
 		{"ver":50605,"desc":"This version adds summon/spirit view, and fixes crash after saving and reopening.","isRelease":true},
 		{"ver":50604,"desc":"This version adds money drop flag for stages, and fixes bugs.","isRelease":true},

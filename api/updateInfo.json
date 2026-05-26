@@ -313,6 +313,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50700,"desc":"This version adds 15.4 contents, resurrection self-destruct, and fixes bugs.","isRelease":true},
 		{"ver":50609,"desc":"This version adds randomenemy custom icons, and fixes bugs.","isRelease":true},
 		{"ver":50608,"desc":"This version fixes animation bugs and allows adding/removing dojo score bonuses.","isRelease":true},
 		{"ver":50607,"desc":"This version adds talent dojo scoring, and fixes bugs.","isRelease":true},

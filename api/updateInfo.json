@@ -315,7 +315,7 @@
 	],
 
 	"pc_update":[
-		{"ver":50702,"desc":"This version adjusts blast attacking behavior, allows negative z-order anim parts, and fixes bugs.","core":"071801"},
+		{"ver":50702,"desc":"This version adjusts blast attacking behavior, allows negative z-order anim parts, and fixes bugs.","isRelease":true},
 		{"ver":50701,"desc":"This version fixes rendering snow background effect, and minor UI changes.","isRelease":true},
 		{"ver":50700,"desc":"This version adds 15.4 contents, resurrection self-destruct, and fixes bugs.","isRelease":true},
 		{"ver":50609,"desc":"This version adds randomenemy custom icons, and fixes bugs.","isRelease":true},

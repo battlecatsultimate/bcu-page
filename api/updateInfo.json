@@ -316,6 +316,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50800,"desc":"This version implements lineup presets, dodge cooldown, and fixes bugs.","isRelease":true},
 		{"ver":50702,"desc":"This version adjusts blast attacking behavior, allows negative z-order anim parts, and fixes bugs.","isRelease":true},
 		{"ver":50701,"desc":"This version fixes rendering snow background effect, and minor UI changes.","isRelease":true},
 		{"ver":50700,"desc":"This version adds 15.4 contents, resurrection self-destruct, and fixes bugs.","isRelease":true},

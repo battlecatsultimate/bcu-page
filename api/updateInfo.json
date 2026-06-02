@@ -316,6 +316,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50802,"desc":"This version should fix consistency of resurrection attacks.","isRelease":true},
 		{"ver":50801,"desc":"This version adds toggle for easier unit spawn with click, and fixes bugs.","isRelease":true},
 		{"ver":50800,"desc":"This version implements lineup presets, dodge cooldown, and fixes bugs.","isRelease":true},
 		{"ver":50702,"desc":"This version adjusts blast attacking behavior, allows negative z-order anim parts, and fixes bugs.","isRelease":true},

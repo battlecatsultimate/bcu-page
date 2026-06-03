@@ -317,7 +317,7 @@
 	],
 
 	"pc_update":[
-		{"ver":50804,"desc":"This version fixes proc formatting error.","isRelease":true},
+		{"ver":50805,"desc":"This version fixes proc formatting error.","isRelease":true},
 		{"ver":50804,"desc":"This version adds layering custom souls & summon ability, sacrifice attacks, and fixes bugs.","isRelease":true},
 		{"ver":50803,"desc":"This version should further fix consistency of resurrection attacks.","isRelease":true},
 		{"ver":50802,"desc":"This version should fix consistency of resurrection attacks.","isRelease":true},

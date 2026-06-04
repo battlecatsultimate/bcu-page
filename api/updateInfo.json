@@ -323,7 +323,8 @@
 			"text": [
 				"Soon, Java 8 will be deprecated. The next update for BCU will require Java 21. Please be ready to uninstall Java 8 and install Java 21 by then.",
 				"If you are a Mac or Linux user, it should be safe to switch to Java 21 now.",
-				"If you are a Windows user and using JOGL, then you should wait until installing 0-5-9-0 before switching to Java 21."
+				"If you are a Windows user and using JOGL, then you should wait until installing 0-5-9-0 before switching to Java 21.",
+				"Another announcement will be made when 0-5-9-0 is close to release."
 			],
 			"min_ver": 50806,
 			"max_ver": 50806
@@ -331,6 +332,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50806,"desc":"This version adds editing for total cat spawn colosseum, and fixes bugs.","isRelease":true},
 		{"ver":50805,"desc":"This version fixes proc formatting error.","isRelease":true},
 		{"ver":50804,"desc":"This version adds layering custom souls & summon ability, sacrifice attacks, and fixes bugs.","isRelease":true},
 		{"ver":50803,"desc":"This version should further fix consistency of resurrection attacks.","isRelease":true},

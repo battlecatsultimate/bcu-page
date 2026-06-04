@@ -316,6 +316,16 @@
  		"vorbisspi-1.0.3.3.jar"
 	],
 
+	"pc_announcement": [
+		{
+			"id": "java21soon",
+			"title": "Update Java",
+			"text": "Soon, Java 8 will be deprecated. The next update for BCU will require Java 21. Please install Java 21 by then.",
+			"min_ver": 50806,
+			"max_ver": 50806
+		}
+	],
+
 	"pc_update":[
 		{"ver":50805,"desc":"This version fixes proc formatting error.","isRelease":true},
 		{"ver":50804,"desc":"This version adds layering custom souls & summon ability, sacrifice attacks, and fixes bugs.","isRelease":true},

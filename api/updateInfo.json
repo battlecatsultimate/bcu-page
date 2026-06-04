@@ -320,7 +320,11 @@
 		{
 			"id": "java21soon",
 			"title": "Update Java",
-			"text": "Soon, Java 8 will be deprecated. The next update for BCU will require Java 21. Please install Java 21 by then.",
+			"text": [
+				"Soon, Java 8 will be deprecated. The next update for BCU will require Java 21. Please be ready to uninstall Java 8 and install Java 21 by then.",
+				"If you are a Mac or Linux user, it should be safe to switch to Java 21 now.",
+				"If you are a Windows user and using JOGL, then you should wait until installing 0-5-9-0 before switching to Java 21."
+			],
 			"min_ver": 50806,
 			"max_ver": 50806
 		}

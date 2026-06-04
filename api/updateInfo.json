@@ -319,7 +319,7 @@
 	"pc_announcement": [
 		{
 			"id": "java21soon",
-			"title": "Update Java",
+			"title": "Update Java Soon",
 			"text": [
 				"Soon, Java 8 will be deprecated. The next update for BCU will require Java 21. Please be ready to uninstall Java 8 and install Java 21 by then.",
 				"If you are a Mac or Linux user, it should be safe to switch to Java 21 now.",

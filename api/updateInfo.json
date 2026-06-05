@@ -318,13 +318,14 @@
 
 	"pc_announcement": [
 		{
-			"id": "java21soon",
-			"title": "Update Java Soon",
+			"id": "java21postpone",
+			"title": "Notice about Java 21 transition",
 			"text": [
-				"Soon, Java 8 will be deprecated. The next update for BCU will require Java 21. Please be ready to uninstall Java 8 and install Java 21 by then.",
-				"If you are a Mac or Linux user, it should be safe to switch to Java 21 now.",
-				"If you are a Windows user and using JOGL, then you should wait until installing 0-5-9-0 before switching to Java 21.",
-				"Another announcement will be made when 0-5-9-0 is close to release."
+				"Turns out, Java 21 transition will be more complex. BCU with Java 21 on Windows with JOGL would require using a batch script to open BCU.",
+				"Currently looking into alternatives where no users won't need to do this, but many are unideal or would deflect problem to other operating systems.",
+				"As a result, Java 21 BCU will be officially postponed until likely August/September, giving users two months time to transition. Java 8 BCU releases will continue in the meantime.",
+				"Soon, a runnable batch script will be made available to download straight from BCU itself. Users on Windows running JOGL will be encouraged to install and use it. This will allow time to smoothly transition to Java 21.",
+				"Another announcement will be made at least one week before the now unspecified Java 21 BCU release comes out."
 			],
 			"min_ver": 50806,
 			"max_ver": 50806

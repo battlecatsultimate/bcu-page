@@ -320,20 +320,21 @@
 	"pc_announcement": [
 		{
 			"id": "java21postpone",
-			"title": "Notice about Java 21 transition",
+			"title": "Update about Java 21 transition",
 			"text": [
-				"Turns out, Java 21 transition will be more complex. BCU with Java 21 on Windows with JOGL would require using a batch script to open BCU.",
+				"The transition from BCU Java 8 to 21 has uncovered some complications. BCU with Java 21 on Windows with JOGL would require using a batch script to open BCU.",
 				"Currently looking into alternatives where no users won't need to do this, but many are unideal or would deflect problem to other operating systems.",
 				"As a result, Java 21 BCU will be officially postponed until likely August/September, giving users two months time to transition. Java 8 BCU releases will continue in the meantime.",
 				"Soon, a runnable batch script will be made available to download straight from BCU itself. Users on Windows running JOGL will be encouraged to install and use it. This will allow time to smoothly transition to Java 21.",
 				"Another announcement will be made at least one week before the now unspecified Java 21 BCU release comes out."
 			],
 			"min_ver": 50806,
-			"max_ver": 50806
+			"max_ver": 50807
 		}
 	],
 
 	"pc_update":[
+		{"ver":50807,"desc":"This version adds unit-side demon soul anim, and fixes bugs.","isRelease":true},
 		{"ver":50806,"desc":"This version adds editing for total cat spawn colosseum, and fixes bugs.","isRelease":true},
 		{"ver":50805,"desc":"This version fixes proc formatting error.","isRelease":true},
 		{"ver":50804,"desc":"This version adds layering custom souls & summon ability, sacrifice attacks, and fixes bugs.","isRelease":true},

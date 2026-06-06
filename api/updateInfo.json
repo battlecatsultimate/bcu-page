@@ -254,7 +254,8 @@
 		{"id":"150403","desc":"Fix enemy 778 edi icon","ver":"071800","type":"core"},
 		{"id":"150404","desc":"Regen, seal, metal killer immunity icons","ver":"071900","type":"core"},
 		{"id":"150405","desc":"Dodge cooldown effect animation","ver":"071900","type":"core"},
-		{"id":"150406","desc":"Dojo score bonus data","ver":"071901","type":"core"}
+		{"id":"150406","desc":"Dojo score bonus data","ver":"071901","type":"core"},
+		{"id":"150407","desc":"Demon soul 01 anim","ver":"071901","type":"core"}
 	],
 
 	"pc_libs": [

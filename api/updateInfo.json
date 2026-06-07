@@ -334,6 +334,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50808,"desc":"This version updates russian lang, and fixes bugs.","isRelease":true},
 		{"ver":50807,"desc":"This version adds unit-side demon soul anim, and fixes bugs.","isRelease":true},
 		{"ver":50806,"desc":"This version adds editing for total cat spawn colosseum, and fixes bugs.","isRelease":true},
 		{"ver":50805,"desc":"This version fixes proc formatting error.","isRelease":true},

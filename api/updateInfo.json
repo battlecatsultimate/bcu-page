@@ -563,5 +563,7 @@
 
 	"text_update":0,
 
-	"music": 191
+	"music": 191,
+
+	"customMusic": 1
 }

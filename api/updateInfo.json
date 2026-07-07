@@ -256,9 +256,9 @@
 		{"id":"150405","desc":"Dodge cooldown effect animation","ver":"071900","type":"core"},
 		{"id":"150406","desc":"Dojo score bonus data","ver":"071901","type":"core"},
 		{"id":"150407","desc":"Demon soul 01 anim","ver":"071901","type":"core"},
-		{"id":"150500","desc":"BC 15.5 contents","ver":"071900","type":"core"},
-		{"id":"150501","desc":"BC 15.5 enemy icons","ver":"071900","type":"android"},
-		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"071900","type":"bot"}
+		{"id":"150500","desc":"BC 15.5 contents","ver":"072000","type":"core"},
+		{"id":"150501","desc":"BC 15.5 enemy icons","ver":"072000","type":"android"},
+		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"072000","type":"bot"}
 	],
 
 	"pc_libs": [

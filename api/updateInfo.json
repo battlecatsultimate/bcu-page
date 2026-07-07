@@ -251,7 +251,10 @@
 		{"id":"150400","desc":"BC 15.4 contents","ver":"071800","type":"core"},
 		{"id":"150401","desc":"BC 15.4 enemy icons","ver":"071800","type":"android"},
 		{"id":"150402","desc":"BC 15.4 gacha/mission data/item/unit icons","ver":"071800","type":"bot"},
-		{"id":"150403","desc":"Fix enemy 778 edi icon","ver":"071800","type":"core"}
+		{"id":"150403","desc":"Fix enemy 778 edi icon","ver":"071800","type":"core"},
+		{"id":"150500","desc":"BC 15.5 contents","ver":"071900","type":"core"},
+		{"id":"150501","desc":"BC 15.5 enemy icons","ver":"071900","type":"android"},
+		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"071900","type":"bot"}
 	],
 
 	"pc_libs": [
@@ -532,5 +535,5 @@
 
 	"text_update":0,
 
-	"music": 191
+	"music": 193
 }

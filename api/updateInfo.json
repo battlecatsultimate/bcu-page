@@ -252,6 +252,10 @@
 		{"id":"150401","desc":"BC 15.4 enemy icons","ver":"071800","type":"android"},
 		{"id":"150402","desc":"BC 15.4 gacha/mission data/item/unit icons","ver":"071800","type":"bot"},
 		{"id":"150403","desc":"Fix enemy 778 edi icon","ver":"071800","type":"core"},
+		{"id":"150404","desc":"Regen, seal, metal killer immunity icons","ver":"071900","type":"core"},
+		{"id":"150405","desc":"Dodge cooldown effect animation","ver":"071900","type":"core"},
+		{"id":"150406","desc":"Dojo score bonus data","ver":"071901","type":"core"},
+		{"id":"150407","desc":"Demon soul 01 anim","ver":"071901","type":"core"}
 		{"id":"150500","desc":"BC 15.5 contents","ver":"071900","type":"core"},
 		{"id":"150501","desc":"BC 15.5 enemy icons","ver":"071900","type":"android"},
 		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"071900","type":"bot"}
@@ -316,7 +320,34 @@
  		"vorbisspi-1.0.3.3.jar"
 	],
 
+	"pc_announcement": [
+		{
+			"id": "java21postpone",
+			"title": "Update about Java 21 transition",
+			"text": [
+				"The transition from BCU Java 8 to 21 has uncovered some complications. BCU with Java 21 on Windows with JOGL would require using a batch script to open BCU.",
+				"Currently looking into alternatives where no users won't need to do this, but many are unideal or would deflect problem to other operating systems.",
+				"As a result, Java 21 BCU will be officially postponed until likely August/September, giving users two months time to transition. Java 8 BCU releases will continue in the meantime.",
+				"Soon, a runnable batch script will be made available to download straight from BCU itself. Users on Windows running JOGL will be encouraged to install and use it. This will allow time to smoothly transition to Java 21.",
+				"Another announcement will be made at least one week before the now unspecified Java 21 BCU release comes out."
+			],
+			"min_ver": 50806,
+			"max_ver": 50807
+		}
+	],
+
 	"pc_update":[
+		{"ver":50808,"desc":"This version updates russian lang, and fixes bugs.","isRelease":true},
+		{"ver":50807,"desc":"This version adds unit-side demon soul anim, and fixes bugs.","isRelease":true},
+		{"ver":50806,"desc":"This version adds editing for total cat spawn colosseum, and fixes bugs.","isRelease":true},
+		{"ver":50805,"desc":"This version fixes proc formatting error.","isRelease":true},
+		{"ver":50804,"desc":"This version adds layering custom souls & summon ability, sacrifice attacks, and fixes bugs.","isRelease":true},
+		{"ver":50803,"desc":"This version should further fix consistency of resurrection attacks.","isRelease":true},
+		{"ver":50802,"desc":"This version should fix consistency of resurrection attacks.","isRelease":true},
+		{"ver":50801,"desc":"This version adds toggle for easier unit spawn with click, and fixes bugs.","isRelease":true},
+		{"ver":50800,"desc":"This version implements lineup presets, dodge cooldown, and fixes bugs.","isRelease":true},
+		{"ver":50702,"desc":"This version adjusts blast attacking behavior, allows negative z-order anim parts, and fixes bugs.","isRelease":true},
+		{"ver":50701,"desc":"This version fixes rendering snow background effect, and minor UI changes.","isRelease":true},
 		{"ver":50700,"desc":"This version adds 15.4 contents, resurrection self-destruct, and fixes bugs.","isRelease":true},
 		{"ver":50609,"desc":"This version adds randomenemy custom icons, and fixes bugs.","isRelease":true},
 		{"ver":50608,"desc":"This version fixes animation bugs and allows adding/removing dojo score bonuses.","isRelease":true},

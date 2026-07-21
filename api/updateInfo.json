@@ -258,7 +258,9 @@
 		{"id":"150407","desc":"Demon soul 01 anim","ver":"071901","type":"core"},
 		{"id":"150500","desc":"BC 15.5 contents","ver":"072000","type":"core"},
 		{"id":"150501","desc":"BC 15.5 enemy icons","ver":"072000","type":"android"},
-		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"072000","type":"bot"}
+		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"072000","type":"bot"},
+		{"id":"150505","desc":"BC 15.5.1 contents","ver":"072000","type":"core"},
+		{"id":"150506","desc":"BC 15.5.1 gacha/mission data/unit icons","ver":"072000","type":"bot"}
 	],
 
 	"pc_libs": [

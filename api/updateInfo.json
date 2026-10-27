@@ -339,6 +339,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50809,"desc":"This version fixes 406 error on downloading files. This jar might have to be manually downloaded.","isRelease":true},
 		{"ver":50808,"desc":"This version updates russian lang, and fixes bugs.","isRelease":true},
 		{"ver":50807,"desc":"This version adds unit-side demon soul anim, and fixes bugs.","isRelease":true},
 		{"ver":50806,"desc":"This version adds editing for total cat spawn colosseum, and fixes bugs.","isRelease":true},

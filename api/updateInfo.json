@@ -264,6 +264,9 @@
 		{"id":"150600","desc":"BC 15.6 contens","ver":"072100","type":"core"},
 		{"id":"150601","desc":"BC 15.6 enemy icons","ver":"072100","type":"android"},
 		{"id":"150602","desc":"BC 15.6 gacha/mission/dojo data/item/unit icons","ver":"072100","type":"bot"}
+		{"id":"150700","desc":"BC 15.7 contens","ver":"072200","type":"core"},
+		{"id":"150701","desc":"BC 15.7 enemy icons","ver":"072200","type":"android"},
+		{"id":"150702","desc":"BC 15.7 gacha/mission data/item/unit icons","ver":"072200","type":"bot"}
 	],
 
 	"pc_libs": [

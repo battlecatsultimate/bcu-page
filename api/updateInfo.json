@@ -260,7 +260,10 @@
 		{"id":"150501","desc":"BC 15.5 enemy icons","ver":"072000","type":"android"},
 		{"id":"150502","desc":"BC 15.5 gacha/mission data/item/unit icons","ver":"072000","type":"bot"},
 		{"id":"150505","desc":"BC 15.5.1 contents","ver":"072000","type":"core"},
-		{"id":"150506","desc":"BC 15.5.1 gacha/mission data/unit icons","ver":"072000","type":"bot"}
+		{"id":"150506","desc":"BC 15.5.1 gacha/mission data/unit icons","ver":"072000","type":"bot"},
+		{"id":"150600","desc":"BC 15.6 contens","ver":"072100","type":"core"},
+		{"id":"150601","desc":"BC 15.6 enemy icons","ver":"072100","type":"android"},
+		{"id":"150602","desc":"BC 15.6 gacha/mission/dojo data/item/unit icons","ver":"072100","type":"bot"}
 	],
 
 	"pc_libs": [
@@ -569,5 +572,5 @@
 
 	"text_update":0,
 
-	"music": 193
+	"music": 196
 }
